@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fBmag9T9eTMDc+DWmBWnUJrLnZD5hGK6YM0I/Xq3R8FCLLd6HkQkb6OhEn2iZgmFnBc1DZpDHNYaQHBpW5lVw==",
+  "success": true,
+  "projectFilePath": "F:\\EHOCTap\\Sem9\\Project\\testwebc\\testwebc\\testwebc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phamb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
